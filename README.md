@@ -1,32 +1,70 @@
+![image](https://github.com/user-attachments/assets/7ad88453-7f0c-414c-b210-538a71bd1640)
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+# Project Overview
 
-# bibliometrix
+O projeto "Análise de Popularidade de Plantas por Região" é parte do processo seletivo para a Aspargo, um aplicativo que ajuda as pessoas a cuidarem melhor de suas plantas, oferecendo dicas, lembretes personalizados e conteúdos educativos. O desafio é entender as preferências regionais de nossos usuários para criar campanhas e conteúdos mais personalizados.
 
-## An R-tool for comprehensive science mapping analysis.
+## Project Objectives
 
-[![bibliometrix: An R-tool for comprehensive science mapping
-analysis.](https://www.bibliometrix.org/JOI-badge.svg)](https://doi.org/10.1016/j.joi.2017.08.007)
-[![Project Status: Active - The project has reached a stable, usable
-state and is being actively
-developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
-[![R-CMD-check](https://github.com/massimoaria/e2tree/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/massimoaria/bibliometrix/actions/workflows/R-CMD-check.yaml)
-[![cran
-version](http://www.r-pkg.org/badges/version/bibliometrix)](https://cran.r-project.org/package=bibliometrix)
-[![rstudio mirror
-downloads](https://cranlogs.r-pkg.org/badges/bibliometrix)](https://github.com/metacran/cranlogs.app)
-[![](http://cranlogs.r-pkg.org/badges/grand-total/bibliometrix)](https://cran.r-project.org/package=bibliometrix)
+O objetivo do projeto é identificar quais são as plantas mais buscadas e populares em cada estado brasileiro utilizando o Google Trends ou outras bases públicas de comportamento de busca. O relatório final deve incluir:
 
-<p align="center">
+### Objetivo do estudo.
 
-<img src="https://www.bibliometrix.org/logo_new.png" width="400"/>
+- Fontes de dados utilizadas.
+- Processo de coleta e limpeza dos dados.
+- Principais análises e visualizações.
+- Storytelling com conclusões.
+- Recomendações práticas.
+- Project Phases
+O projeto será dividido em quatro sprints, cada uma com objetivos específicos e tarefas detalhadas.
 
-</p>
+**Sprint Details**
 
-## Overview
+- Sprint 1: Planejamento e Coleta de Dados
+Objetivo: Definir o escopo do projeto e coletar os dados necessários.
+User Story 1: Definir o Objetivo do Estudo
+Task 1.1: Revisar o Desafio
+Task 1.2: Escrever o Objetivo
+User Story 2: Identificar Fontes de Dados
+Task 2.1: Pesquisar Fontes de Dados
+Task 2.2: Documentar Fontes de Dados
+User Story 3: Coleta e Limpeza dos Dados
+Task 3.1: Coletar Dados
+Task 3.2: Limpar Dados
 
-**bibliometrix** package provides a set of tools for quantitative
-research in bibliometrics and scientometrics.
+- Sprint 2: Análise e Visualizações
+Objetivo: Realizar a análise dos dados e criar visualizações.
+User Story 4: Análise dos Dados
+Task 4.1: Analisar Dados
+Task 4.2: Documentar Resultados
+User Story 5: Criação de Visualizações
+Task 5.1: Criar Tabela
+Task 5.2: Criar Heatmap ou Gráfico de Barras
+
+- Sprint 3: Storytelling e Conclusões
+Objetivo: Conectar os dados à realidade de negócio da Aspargo e elaborar conclusões.
+User Story 6: Storytelling com Conclusões
+Task 6.1: Elaborar Narrativa
+Task 6.2: Documentar Conclusões
+
+- Sprint 4: Recomendações Práticas e Entrega
+Objetivo: Sugerir ações práticas e preparar o relatório final.
+User Story 7: Recomendações Práticas
+Task 7.1: Identificar Ações
+Task 7.2: Documentar Recomendações
+User Story 8: Preparação do Relatório Final
+Task 8.1: Criar Relatório
+Task 8.2: Revisar e Entregar Relatório
+
+
+Conclusion
+O projeto "Análise de Popularidade de Plantas por Região" será gerenciado no Jira Software utilizando o framework Scrum, com quatro sprints detalhadas para garantir a organização e a entrega dos resultados esperados. O prazo de entrega é 20/07. Caso tenha dúvidas durante o processo, estamos à disposição.
+Boa sorte! Equipe Aspargo
+
+
+
+
+---
 
 Bibliometrics turns the main tool of science, quantitative analysis, on
 itself. Essentially, bibliometrics is the application of quantitative
